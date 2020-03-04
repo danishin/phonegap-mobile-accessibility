@@ -14,8 +14,7 @@
     "id": "phonegap-plugin-mobile-accessibility",
     "platforms": [
       "ios",
-      "android",
-      "windows"
+      "android"
     ]
   },
   "keywords": [
@@ -23,8 +22,7 @@
     "mobile accessibility",
     "ecosystem:cordova",
     "cordova-ios",
-    "cordova-android",
-    "cordova-windows"
+    "cordova-android"
   ],
   "engines": [
     {
